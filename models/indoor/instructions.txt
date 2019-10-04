@@ -1,0 +1,1 @@
+Download the alexnet model trained in indoor and the images from the readme file and put it in this folder.
