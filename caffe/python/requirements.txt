@@ -3,7 +3,7 @@ numpy>=1.7.1
 scipy==0.17.0
 scikit-image==0.10.0
 matplotlib==1.4.0
-ipython==5.0.0
+ipython==7.16.3
 h5py>=2.2.0
 leveldb>=0.191
 networkx==2.2
